@@ -13,6 +13,8 @@ body {
   padding:40px;
   margin: 20px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-image: url('pexels-josh-sorenson-1714208.jpg');
+  background-size: 1900px;
 }
 
 ul {
